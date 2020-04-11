@@ -3,8 +3,7 @@ author: Hugo Authors
 date: "2017-12-17"
 description: Lorem Ipsum Dolor Si Amet
 tags:
-- markdown
-- text
+- hugo-init
 title: Placeholder Text
 type: post
 ---

@@ -3,8 +3,7 @@ author: Hugo Authors
 date: "2017-01-02"
 description: A brief description of Hugo Shortcodes
 tags:
-- shortcodes
-- privacy
+- hugo-init
 title: Rich Content
 type: post
 ---

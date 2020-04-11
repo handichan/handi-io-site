@@ -4,10 +4,7 @@ date: "2017-01-24"
 description: Sample article showcasing basic Markdown syntax and formatting for HTML
   elements.
 tags:
-- markdown
-- css
-- html
-- themes
+- hugo-init
 title: Markdown Syntax
 ---
 

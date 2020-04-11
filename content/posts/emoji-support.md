@@ -3,7 +3,7 @@ author: Hugo Authors
 date: "2017-12-03"
 description: Guide to emoji usage in Hugo
 tags:
-- emoji
+- hugo-init
 title: Emoji Support
 ---
 Emoji can be enabled in a Hugo project in a number of ways.

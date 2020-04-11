@@ -34,3 +34,6 @@ This post covers a lits of dashboards and datasets available internationally.
 * The European Centre for Disease Prevention and Control has been publishing [Covid-19 data files].
 * USAFacts has been gathering state and local public health data on the virus. As BuzzFeed’s Jeremy Singer-Vine [points out](https://tinyletter.com/data-is-plural/letters/data-is-plural-2020-03-25-edition) in his rich Data is Plural newsletter, “USAFacts is using data from state governments, local public health agencies, and Johns Hopkins University to map US cases at the county level, with the underlying [data available](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/) to download.”
 
+
+### Sources
+1. Martin Frigaard. *A roundup of coronavirus dashboards, datasets, and resources*. [Storybench](https://www.storybench.org/a-roundup-of-coronavirus-dashboards-datasets-and-resources/)
