@@ -13,7 +13,7 @@ This post is covers a lits of dashboards and datasets available internationally.
 <!--more-->
 ---
 
-## Dashboards and maps
+## COVID-19 Dashboards and Maps Worldwide
 * The CDC has a [coronavirus website](https://www.cdc.gov/coronavirus/2019-ncov/index.html) with up-to-date information and [USA map](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html). 
 * The WHO also has a [webpage](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen) dedicated to international events related to coronavirus.
 * Google has an [interactive map](https://google.org/crisisresponse/covid19-map) that is updated frequently.
