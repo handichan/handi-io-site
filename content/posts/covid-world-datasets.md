@@ -31,7 +31,7 @@ This post covers a lits of dashboards and datasets available internationally.
 * Reddit has a curated list of coronavirus datasets on [/r/datasets](https://www.reddit.com/r/datasets/comments/exnzrd/coronavirus_datasets/):
 * ESRI also has [an area for sharing data](https://disasterresponse.maps.arcgis.com/home/group.html?id=e0140dbc514b48b5b90c351740c14639#overview) on Covid-19.
 * Kaggle has also released some new [datasets tagged Covid-19](https://www.kaggle.com/tags/covid19), including [one with “over 44,000 scholarly articles](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)).”
-* The European Centre for Disease Prevention and Control has been publishing [Covid-19 data files].
+* The European Centre for Disease Prevention and Control has been publishing [Covid-19 data files](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide).
 * USAFacts has been gathering state and local public health data on the virus. As BuzzFeed’s Jeremy Singer-Vine [points out](https://tinyletter.com/data-is-plural/letters/data-is-plural-2020-03-25-edition) in his rich Data is Plural newsletter, “USAFacts is using data from state governments, local public health agencies, and Johns Hopkins University to map US cases at the county level, with the underlying [data available](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/) to download.”
 
 
