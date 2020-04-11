@@ -9,7 +9,7 @@ title: COVID-19 Dashboards and Maps Worldwide
 type: post
 ---
 
-This post is covers a lits of dashboards and datasets available internationally.
+This post covers a lits of dashboards and datasets available internationally.
 <!--more-->
 ---
 
