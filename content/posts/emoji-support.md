@@ -1,6 +1,6 @@
 ---
 author: Hugo Authors
-date: "2019-12-03"
+date: "2017-12-03"
 description: Guide to emoji usage in Hugo
 tags:
 - emoji

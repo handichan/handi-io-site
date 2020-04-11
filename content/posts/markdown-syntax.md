@@ -1,6 +1,6 @@
 ---
 author: Hugo Authors
-date: "2020-01-24"
+date: "2017-01-24"
 description: Sample article showcasing basic Markdown syntax and formatting for HTML
   elements.
 tags:
