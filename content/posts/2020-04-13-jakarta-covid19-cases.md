@@ -6,7 +6,6 @@ slug: jakarta-covid19-cases
 tags:
   - covid19
   - dataset
-draft: yes
 ---
 
 This post covers the last counts of COVID19 cases in Jakarta.
