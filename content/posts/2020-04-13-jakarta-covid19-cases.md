@@ -1,11 +1,12 @@
 ---
 title: Jakarta Covid19 Cases
-author: admin
+author: Handi
 date: '2020-04-13'
 slug: jakarta-covid19-cases
 tags:
   - covid19
   - dataset
+type: post
 ---
 
 This post covers the last counts of COVID19 cases in Jakarta.
