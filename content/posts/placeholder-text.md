@@ -6,6 +6,7 @@ tags:
 - hugo-init
 title: Placeholder Text
 type: post
+draft:: TRUE
 ---
 
 Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->

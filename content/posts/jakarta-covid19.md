@@ -6,7 +6,7 @@ tags:
 - covid19
 - dataset
 - indonesia
-title: COVID-19 Dashboards and Maps Worldwide
+title: Jakarta COVID 19 Status
 type: post
 ---
 
@@ -15,8 +15,10 @@ This post covers the last counts of COVID19 cases in Jakarta.
 ---
 
 ## Positive
-<iframe seamless src="/content/leafmap/leafMapPOSITIF.html" width="100%" height="500"></iframe>
+<iframe seamless src="/leafmap/leafMapPOSITIF.html" width="100%" height="500"></iframe>
+
 ## PDP
-<iframe seamless src="/content/leafmap/leafMapPDP.html" width="100%" height="500"></iframe>
+<iframe seamless src="/leafmap/leafMapPDP.html" width="100%" height="500"></iframe>
+
 ## ODP
-<iframe seamless src="/content/leafmap/leafMapODP.html" width="100%" height="500"></iframe>
+<iframe seamless src="/leafmap/leafMapODP.html" width="100%" height="500"></iframe>
