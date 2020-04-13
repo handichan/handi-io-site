@@ -1,12 +1,12 @@
 ---
 author: Handi
 date: "2020-04-13"
-description: Covid19 cases in Jakarta
+description: COVID-19 Dashboards and Maps Worldwide
 tags:
 - covid19
 - dataset
 - indonesia
-title: Jakarta Covid19 Cases
+title: COVID-19 Dashboards and Maps Worldwide
 type: post
 ---
 
