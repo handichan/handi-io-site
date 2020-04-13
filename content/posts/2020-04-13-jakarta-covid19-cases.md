@@ -1,11 +1,12 @@
 ---
-title: Jakarta Covid19 Cases
 author: Handi
-date: '2020-04-13'
-slug: jakarta-covid19-cases
+date: "2020-04-13"
+description: Covid19 cases in Jakarta
 tags:
-  - covid19
-  - dataset
+- covid19
+- dataset
+- indonesia
+title: Jakarta Covid19 Cases
 type: post
 ---
 
