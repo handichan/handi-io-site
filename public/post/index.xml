@@ -2,67 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on AtlaStory</title>
-    <link>/post/</link>
+    <link>https://handi.me/post/</link>
     <description>Recent content in Posts on AtlaStory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://handi.me/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jakarta COVID 19 Data Terakhir</title>
-      <link>/posts/jakarta-covid19-terakhir/</link>
+      <link>https://handi.me/posts/jakarta-covid19-terakhir/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/jakarta-covid19-terakhir/</guid>
-      <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta.&lt;/p&gt;</description>
+      <guid>https://handi.me/posts/jakarta-covid19-terakhir/</guid>
+      <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta per April 13, 2020&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Jakarta COVID 19 ODP April</title>
-      <link>/posts/jakarta-covid19-odp-april/</link>
+      <link>https://handi.me/posts/jakarta-covid19-odp-april/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/jakarta-covid19-odp-april/</guid>
+      <guid>https://handi.me/posts/jakarta-covid19-odp-april/</guid>
       <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Jakarta COVID 19 PDP April</title>
-      <link>/posts/jakarta-covid19-pdp-april/</link>
+      <link>https://handi.me/posts/jakarta-covid19-pdp-april/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/jakarta-covid19-pdp-april/</guid>
+      <guid>https://handi.me/posts/jakarta-covid19-pdp-april/</guid>
       <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Jakarta COVID 19 Positif April</title>
-      <link>/posts/jakarta-covid19-positif-april/</link>
+      <link>https://handi.me/posts/jakarta-covid19-positif-april/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/jakarta-covid19-positif-april/</guid>
+      <guid>https://handi.me/posts/jakarta-covid19-positif-april/</guid>
       <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>COVID-19 Dashboards and Maps Worldwide</title>
-      <link>/posts/covid-world-datasets/</link>
+      <link>https://handi.me/posts/covid-world-datasets/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/covid-world-datasets/</guid>
+      <guid>https://handi.me/posts/covid-world-datasets/</guid>
       <description>&lt;p&gt;This post covers a lits of dashboards and datasets available internationally.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Sun, 23 Jul 2017 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents.</description>
     </item>
     
   </channel>
