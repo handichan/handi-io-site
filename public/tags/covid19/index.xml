@@ -12,11 +12,38 @@
     
     
     <item>
-      <title>Jakarta COVID 19 Status</title>
-      <link>/posts/jakarta-covid19/</link>
+      <title>Jakarta COVID 19 Data Terakhir</title>
+      <link>/posts/jakarta-covid19-terakhir/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/jakarta-covid19/</guid>
+      <guid>/posts/jakarta-covid19-terakhir/</guid>
+      <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jakarta COVID 19 ODP April</title>
+      <link>/posts/jakarta-covid19-odp-april/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/jakarta-covid19-odp-april/</guid>
+      <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jakarta COVID 19 PDP April</title>
+      <link>/posts/jakarta-covid19-pdp-april/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/jakarta-covid19-pdp-april/</guid>
+      <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jakarta COVID 19 Positif April</title>
+      <link>/posts/jakarta-covid19-positif-april/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/jakarta-covid19-positif-april/</guid>
       <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta.&lt;/p&gt;</description>
     </item>
     

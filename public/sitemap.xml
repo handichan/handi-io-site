@@ -18,7 +18,22 @@
   </url>
   
   <url>
-    <loc>/posts/jakarta-covid19/</loc>
+    <loc>/posts/jakarta-covid19-terakhir/</loc>
+    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/jakarta-covid19-odp-april/</loc>
+    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/jakarta-covid19-pdp-april/</loc>
+    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/jakarta-covid19-positif-april/</loc>
     <lastmod>2020-04-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,43 +73,18 @@
   </url>
   
   <url>
-    <loc>/tags/hugo-init/</loc>
-    <lastmod>2017-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/placeholder-text/</loc>
-    <lastmod>2017-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/math-typesetting/</loc>
-    <lastmod>2017-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/emoji-support/</loc>
-    <lastmod>2017-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2017-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo-init/</loc>
     <lastmod>2017-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/r-markdown/</loc>
     <lastmod>2017-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/markdown-syntax/</loc>
-    <lastmod>2017-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/rich-content/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
