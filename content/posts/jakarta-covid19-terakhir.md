@@ -9,7 +9,7 @@ tags:
 title: Jakarta COVID 19 Data Terakhir
 type: post
 ---
-This post covers the last counts of COVID19 cases in Jakarta per April 13, 2020
+This post covers the last counts of COVID19 cases in Jakarta per 13 April 2020
 <!--more-->
 ---
 <iframe seamless src="/leafmap/leafMapLatest.html" width="100%" height="500"></iframe>
