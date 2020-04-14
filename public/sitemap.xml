@@ -3,88 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/covid19/</loc>
+    <loc>https://handi.me/tags/covid19/</loc>
     <lastmod>2020-04-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/dataset/</loc>
+    <loc>https://handi.me/tags/dataset/</loc>
     <lastmod>2020-04-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/indonesia/</loc>
+    <loc>https://handi.me/tags/indonesia/</loc>
     <lastmod>2020-04-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/jakarta-covid19-terakhir/</loc>
+    <loc>https://handi.me/posts/jakarta-covid19-terakhir/</loc>
     <lastmod>2020-04-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/jakarta-covid19-odp-april/</loc>
+    <loc>https://handi.me/posts/jakarta-covid19-odp-april/</loc>
     <lastmod>2020-04-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/jakarta-covid19-pdp-april/</loc>
+    <loc>https://handi.me/posts/jakarta-covid19-pdp-april/</loc>
     <lastmod>2020-04-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/jakarta-covid19-positif-april/</loc>
+    <loc>https://handi.me/posts/jakarta-covid19-positif-april/</loc>
     <lastmod>2020-04-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://handi.me/post/</loc>
     <lastmod>2020-04-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://handi.me/tags/</loc>
     <lastmod>2020-04-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://handi.me/about/</loc>
     <lastmod>2020-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://handi.me/</loc>
     <lastmod>2020-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/covid-world-datasets/</loc>
+    <loc>https://handi.me/posts/covid-world-datasets/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/datasetgit/</loc>
+    <loc>https://handi.me/tags/datasetgit/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/archives/</loc>
+    <loc>https://handi.me/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2017-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hugo-init/</loc>
-    <lastmod>2017-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2017-07-23T21:13:14-05:00</lastmod>
   </url>
   
 </urlset>

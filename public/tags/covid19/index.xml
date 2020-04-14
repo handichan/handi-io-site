@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>covid19 on AtlaStory</title>
-    <link>/tags/covid19/</link>
+    <link>https://handi.me/tags/covid19/</link>
     <description>Recent content in covid19 on AtlaStory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/covid19/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://handi.me/tags/covid19/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jakarta COVID 19 Data Terakhir</title>
-      <link>/posts/jakarta-covid19-terakhir/</link>
+      <link>https://handi.me/posts/jakarta-covid19-terakhir/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/jakarta-covid19-terakhir/</guid>
+      <guid>https://handi.me/posts/jakarta-covid19-terakhir/</guid>
       <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta per 13 April 2020&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Jakarta COVID 19 ODP April</title>
-      <link>/posts/jakarta-covid19-odp-april/</link>
+      <link>https://handi.me/posts/jakarta-covid19-odp-april/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/jakarta-covid19-odp-april/</guid>
+      <guid>https://handi.me/posts/jakarta-covid19-odp-april/</guid>
       <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Jakarta COVID 19 PDP April</title>
-      <link>/posts/jakarta-covid19-pdp-april/</link>
+      <link>https://handi.me/posts/jakarta-covid19-pdp-april/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/jakarta-covid19-pdp-april/</guid>
+      <guid>https://handi.me/posts/jakarta-covid19-pdp-april/</guid>
       <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Jakarta COVID 19 Positif April</title>
-      <link>/posts/jakarta-covid19-positif-april/</link>
+      <link>https://handi.me/posts/jakarta-covid19-positif-april/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/jakarta-covid19-positif-april/</guid>
+      <guid>https://handi.me/posts/jakarta-covid19-positif-april/</guid>
       <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>COVID-19 Dashboards and Maps Worldwide</title>
-      <link>/posts/covid-world-datasets/</link>
+      <link>https://handi.me/posts/covid-world-datasets/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/covid-world-datasets/</guid>
+      <guid>https://handi.me/posts/covid-world-datasets/</guid>
       <description>&lt;p&gt;This post covers a lits of dashboards and datasets available internationally.&lt;/p&gt;</description>
     </item>
     
