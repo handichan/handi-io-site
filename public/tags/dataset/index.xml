@@ -2,49 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dataset on AtlaStory</title>
-    <link>https://handi.me/tags/dataset/</link>
+    <link>/tags/dataset/</link>
     <description>Recent content in dataset on AtlaStory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://handi.me/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Jakarta COVID 19 Data Terakhir</title>
-      <link>https://handi.me/posts/jakarta-covid19-terakhir/</link>
-      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <title>COVID-19 Dashboards and Maps Worldwide</title>
+      <link>/posts/covid-world-datasets/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://handi.me/posts/jakarta-covid19-terakhir/</guid>
-      <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta per 13 April 2020&lt;/p&gt;</description>
+      <guid>/posts/covid-world-datasets/</guid>
+      <description>&lt;p&gt;This post covers a lits of dashboards and datasets available internationally.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Jakarta COVID 19 ODP April</title>
-      <link>https://handi.me/posts/jakarta-covid19-odp-april/</link>
-      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <title>Jakarta COVID 19 Data Correlations</title>
+      <link>/posts/jakarta-covid19-correlations/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://handi.me/posts/jakarta-covid19-odp-april/</guid>
-      <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta.&lt;/p&gt;</description>
+      <guid>/posts/jakarta-covid19-correlations/</guid>
+      <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta per 14 April 2020&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Jakarta COVID 19 PDP April</title>
-      <link>https://handi.me/posts/jakarta-covid19-pdp-april/</link>
-      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <title>Jakarta COVID 19 Meninggal</title>
+      <link>/posts/jakart-covid19-meninggal/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://handi.me/posts/jakarta-covid19-pdp-april/</guid>
-      <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta.&lt;/p&gt;</description>
+      <guid>/posts/jakart-covid19-meninggal/</guid>
+      <description>&lt;p&gt;This post covers death counts for the past seven days.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Jakarta COVID 19 Positif April</title>
-      <link>https://handi.me/posts/jakarta-covid19-positif-april/</link>
-      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <title>Jakarta COVID 19 ODP</title>
+      <link>/posts/jakarta-covid19-odp/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://handi.me/posts/jakarta-covid19-positif-april/</guid>
-      <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta.&lt;/p&gt;</description>
+      <guid>/posts/jakarta-covid19-odp/</guid>
+      <description>&lt;p&gt;This post covers PDP counts for the past seven days.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jakarta COVID 19 PDP</title>
+      <link>/posts/jakarta-covid19-pdp/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/jakarta-covid19-pdp/</guid>
+      <description>&lt;p&gt;This post covers PDP counts for the past seven days.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jakarta COVID 19 Positif</title>
+      <link>/posts/jakarta-covid19-positif/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/jakarta-covid19-positif/</guid>
+      <description>&lt;p&gt;This post covers positive counts for the past seven days.&lt;/p&gt;</description>
     </item>
     
   </channel>

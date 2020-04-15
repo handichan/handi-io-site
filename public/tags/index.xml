@@ -2,48 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AtlaStory</title>
-    <link>https://handi.me/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on AtlaStory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://handi.me/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>covid19</title>
-      <link>https://handi.me/tags/covid19/</link>
-      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <link>/tags/covid19/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://handi.me/tags/covid19/</guid>
+      <guid>/tags/covid19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dataset</title>
-      <link>https://handi.me/tags/dataset/</link>
-      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <link>/tags/dataset/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://handi.me/tags/dataset/</guid>
+      <guid>/tags/dataset/</guid>
       <description></description>
     </item>
     
     <item>
       <title>indonesia</title>
-      <link>https://handi.me/tags/indonesia/</link>
-      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <link>/tags/indonesia/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://handi.me/tags/indonesia/</guid>
+      <guid>/tags/indonesia/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>datasetgit</title>
-      <link>https://handi.me/tags/datasetgit/</link>
-      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      <title>hugo-init</title>
+      <link>/tags/hugo-init/</link>
+      <pubDate>Sun, 23 Jul 2017 21:13:14 -0500</pubDate>
       
-      <guid>https://handi.me/tags/datasetgit/</guid>
+      <guid>/tags/hugo-init/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Sun, 23 Jul 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
