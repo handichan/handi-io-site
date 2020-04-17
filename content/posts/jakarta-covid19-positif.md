@@ -1,6 +1,6 @@
 ---
 author: Handi
-date: "2020-04-14"
+date: "2020-04-16"
 description: COVID-19 Positive patients
 tags:
 - covid19
