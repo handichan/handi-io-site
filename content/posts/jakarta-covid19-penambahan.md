@@ -10,9 +10,9 @@ title: Jakarta COVID 19 Penambahan
 type: post
 ---
 
-This post covers a maximum number of new cases per-day for the period of 1-20 April 2020.
+This post covers a maximum number of new cases per-day.
 <!--more-->
 ---
 
-## Positive
+## Penambahan kasus baru per-hari 
 <iframe seamless src="/leafmap/leafMapAddition.html" width="100%" height="500"></iframe>
