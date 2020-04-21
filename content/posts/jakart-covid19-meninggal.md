@@ -1,6 +1,6 @@
 ---
 author: Handi
-date: "2020-04-16"
+date: "2020-04-20"
 description: Jakarta COVID 19 Meninggal
 tags:
 - covid19
