@@ -14,5 +14,5 @@ This post covers a maximum number of new cases per-day.
 <!--more-->
 ---
 
-## Penambahan kasus baru per-hari 
+## Penambahan kasus baru per-hari tertinggi sampai hari ini
 <iframe seamless src="/leafmap/leafMapAddition.html" width="100%" height="500"></iframe>

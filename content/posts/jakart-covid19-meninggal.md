@@ -14,5 +14,5 @@ This post covers death counts for the past seven days.
 <!--more-->
 ---
 
-## Positive
+## Meninggal
 <iframe seamless src="/leafmap/leafMapMENINGGAL.html" width="100%" height="500"></iframe>
