@@ -6,15 +6,33 @@
     <description>Recent content in Posts on AtlaStory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://handi.me/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Jakarta COVID 19 and its correlation with population</title>
+      <link>https://handi.me/posts/jakarta-covid19-population/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://handi.me/posts/jakarta-covid19-population/</guid>
+      <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta and its correlation with population density by Kelurahan&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jakarta COVID 19 and its correlation with roads</title>
+      <link>https://handi.me/posts/jakarta-covid19-roads/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://handi.me/posts/jakarta-covid19-roads/</guid>
+      <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta and its correlation with roads density by Kelurahan&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Jakarta COVID 19 Meninggal</title>
       <link>https://handi.me/posts/jakart-covid19-meninggal/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://handi.me/posts/jakart-covid19-meninggal/</guid>
       <description>&lt;p&gt;This post covers death counts for the past seven days.&lt;/p&gt;</description>
@@ -23,7 +41,7 @@
     <item>
       <title>Jakarta COVID 19 ODP</title>
       <link>https://handi.me/posts/jakarta-covid19-odp/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://handi.me/posts/jakarta-covid19-odp/</guid>
       <description>&lt;p&gt;This post covers PDP counts for the past seven days.&lt;/p&gt;</description>
@@ -32,7 +50,7 @@
     <item>
       <title>Jakarta COVID 19 PDP</title>
       <link>https://handi.me/posts/jakarta-covid19-pdp/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://handi.me/posts/jakarta-covid19-pdp/</guid>
       <description>&lt;p&gt;This post covers PDP counts for the past seven days.&lt;/p&gt;</description>
@@ -41,7 +59,7 @@
     <item>
       <title>Jakarta COVID 19 Penambahan</title>
       <link>https://handi.me/posts/jakarta-covid19-penambahan/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://handi.me/posts/jakarta-covid19-penambahan/</guid>
       <description>&lt;p&gt;This post covers a maximum number of new cases per-day.&lt;/p&gt;</description>
@@ -50,19 +68,10 @@
     <item>
       <title>Jakarta COVID 19 Positif</title>
       <link>https://handi.me/posts/jakarta-covid19-positif/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://handi.me/posts/jakarta-covid19-positif/</guid>
       <description>&lt;p&gt;This post covers positive counts for the past seven days.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Jakarta COVID 19 Latest Data</title>
-      <link>https://handi.me/posts/jakarta-covid19-correlations/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://handi.me/posts/jakarta-covid19-correlations/</guid>
-      <description>&lt;p&gt;This post covers the last counts of COVID19 cases in Jakarta per 20 April 2020&lt;/p&gt;</description>
     </item>
     
     <item>
